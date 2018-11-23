@@ -1,10 +1,10 @@
-# ImpexPython
-small script to create an impex import/export file to import images into Hybris hMC
+# create_image_impex
+create an hybris import/export media impex file
 
 File types supported are JPG, PNG & GIF
 
 # Code Example
-This is a small code snippet
+This is a code snippet
 
 ```python
 def mainclass():
@@ -35,7 +35,7 @@ def mainclass():
 # Usage
 
 ```
-python CreateImpexAtPath.py
+python main.py
 ```
 Copy the directory path where the images folder can be found (note that the images must be inside a folder called images)
 
